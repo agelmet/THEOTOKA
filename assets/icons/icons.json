@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/maria-theotoka-icon.svg"
+ },
+ "source_md5": "95b64b9b8bd47dfe06b0a41b4974fe8e",
+ "version": "911a1dde",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "b392421dcb39c70a53721e59eeff3bbd"
+ ],
+ "made": "2026-11-08"
+}
